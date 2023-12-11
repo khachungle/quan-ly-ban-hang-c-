@@ -1,0 +1,9 @@
+hh01#Snack cay#Italia#Xanh duong#2000#29#10/10/2023
+hh02#Banh bao#NhatBan#Vang#17000#15#02/01/2014
+hh03#Cocacola#My#Xanh Duong#11500#80#10/10/2023
+hh04#7 up#Viet Nam#Xanh la#20000#37#10/10/2023
+hh05#Sting#My#Xanh La#11500#60#10/12/2023
+hh05#RedBud#Uc#Vang#11500#60#10/12/2023
+hh06#Warrior#My#Do#12500#80#05/10/2023
+hh09#Kem Sacolo#Viet Nam#Nau Den#110500#100#11/12/2023
+hh10#Kem Dua#Viet Nam#Trang#110999#90#10/10/2023
